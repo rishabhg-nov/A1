@@ -1,0 +1,14 @@
+
+Please use more to read the script output a1.txt.
+Using "vi" shows control characters which make it hard to read.
+
+Professor had mentioned this on discord on 09/02/2022 :
+
+"
+ProfB
+ — 
+09/02/2022
+For A1 to see the text captured in script output file (after you exit script) use cat or more . Since other commands like less or vi also display control characters that were output by the other things you ran and the output looks like it has garbage 
+"
+
+
